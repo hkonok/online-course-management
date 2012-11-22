@@ -1,0 +1,1 @@
+<h2>This is from the inner HMVC module page.</h2>
